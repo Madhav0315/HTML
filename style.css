@@ -1,0 +1,20 @@
+h1{
+    color: darkblue;
+}
+.post{
+    background-color: lightyellow;
+}
+.post p{
+    border: dotted;
+
+}
+.date{
+    font-style: italic;
+    font-size: smaller;
+}
+footer{
+    background-color: gray;
+}
+.title{
+    
+}
